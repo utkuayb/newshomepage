@@ -1,0 +1,7 @@
+@media (max-width: 575px) {
+    div.fotolar {
+        width: 50%;
+        display: inline;
+        margin-bottom: 15px;
+    }
+}
